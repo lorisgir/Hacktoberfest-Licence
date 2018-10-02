@@ -10,6 +10,6 @@ Also there are no formal rules, but we should try to be kind and funny.
 ## Licence
 
 ### Preamble
-*before this licence goes too far we want to ensure some fundamentals that open-source comunity managed to get (if somobody want's to use it int the future)*
+*before this licence goes too far we want to ensure some fundamentals of an open-source licnese are maintained (if somobody want's to use it int the future)*
 
-If you relase a project with this licence you **MUST** release the source code, everybody is free to make his own copy, modify it, ad redestribuite **USING THE SAME LICENCE**     
+If you relase a project with this licence you **MUST** release the source code, everybody is free to make his own copy, modify it, and redestribuite **USING THE SAME LICENCE**     
