@@ -5,4 +5,11 @@ The purpose of this repository is to create a licence in a collaborative way and
 
 Edits will be accepted till the end of hacktoberfest, so submit your Pull Requests. 
 
-Also there are no formal rules, but we should try to be kind and funny.   
+Also there are no formal rules, but we should try to be kind and funny. 
+
+## Licence
+
+### Preamble
+*before this licence goes too far we want to ensure some fundamentals that open-source comunity managed to get (if somobody want's to use it int the future)*
+
+If you relase a project with this licence you **MUST** release the source code, everybody is free to make his own copy, modify it, ad redestribuite **USING THE SAME LICENCE**     
