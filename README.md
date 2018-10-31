@@ -1,4 +1,4 @@
-# Hacktoberfest Licence
+# Hacktoberfest Licence :)
 
 ## Intro
 The purpose of this repository is to create a licence in a collaborative way and see what we get at the end.
