@@ -34,3 +34,5 @@ If you relase a project with this licence you **MUST** release the source code, 
 8. "Misinterpretation" are word realignments in which the word of Hobest is lost.
 
 9. "Messengers" refers to those followers of Hobest who have had a first hand experiance with Hobest and come to share his word. Sharing is done through the word realignent process.
+
+
