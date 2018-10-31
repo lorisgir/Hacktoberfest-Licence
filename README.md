@@ -7,7 +7,7 @@ Edits will be accepted till the end of hacktoberfest, so submit your Pull Reques
 
 Also there are no formal rules, but we should try to be kind and funny. 
 
-## Licence
+### Licence
 
 ### Preamble
 *before this licence goes too far we want to ensure some fundamentals that open-source comunity managed to get (if somobody want's to use it int the future)*
