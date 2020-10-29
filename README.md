@@ -1,6 +1,8 @@
-# Hacktoberfest Licence :)
+# Hacktoberfest 2020 Licence :)
 
-## Intro test
+## Intro
+
+### Intro but smaller
 
 The purpose of this repository is to create a licence in a collaborative way and see what we get at the end.
 
